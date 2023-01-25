@@ -97,10 +97,6 @@
 
             <!-- Typewriter -->
             <div class="container container-wide v-bottom padding-v-80">
-                <h2 class="text-tertiary margin-t-40 margin-b-40">
-                <span data-target="local-scroll"><a href="#" onclick="goTo('resume')" class="btn btn-lg btn-primary animated" data-animation="bounceIn" title="Voir mon CV"><span>Voir mon CV</span><i class="ti-arrow-down"></i></a></span>
-                <a href="assets/img/cv-dev_nadia-hazem-fr.pdf" target="_blank" class="btn btn-lg btn-primary animated" title="Télécharger mon CV"><span>Télécharger mon CV</span><i class="ti-file"></i></a>
-                </h2>
                 <!-- script dynamique -->
                 <div id="myself">
                     <pre id="typewriter">
@@ -116,6 +112,11 @@
                         }; 
                     </pre>
                 </div>
+                <!-- Liens cv -->
+                <h2 class="text-tertiary margin-t-40 margin-b-40">
+                <span data-target="local-scroll"><a href="#" onclick="goTo('resume')" class="btn btn-lg btn-primary animated" data-animation="bounceIn" title="Voir mon CV"><span>Voir mon CV</span><i class="ti-arrow-down"></i></a></span>
+                <a href="assets/img/cv-dev_nadia-hazem-fr.pdf" target="_blank" class="btn btn-lg btn-primary animated" title="Télécharger mon CV"><span>Télécharger mon CV</span><i class="ti-file"></i></a>
+                </h2>
             </div>
 
         </section>
