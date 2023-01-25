@@ -1,5 +1,4 @@
 # site-perso
-Mon portfolio
+My portfolio
 
-Regroupe mes travaux au sein de la formation Développeur web au Campus numérique méditérannéen, La PLateforme. 
-HTML, CSS, Python, Php, Javascript, Mysql
+Consolidates my work within the Web Developer training at the Mediterranean Digital Campus, La PLateforme. https://laplateforme.io
