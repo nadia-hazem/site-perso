@@ -588,37 +588,31 @@
                             <!-- Single event -->
                             <div class="timeline-event te-primary">
                                 <span class="event-date">2011 à 2015</span>
-                                <span class="event-name text-blue">Reconversion domaine agricole</span>
+                                <span class="event-name text-gold">Reconversion domaine agricole</span>
                                 <span class="event-description">Pépiniérie, agriculture bio, permaculture</span>
                             </div>
                             <!-- Single event -->
                             <div class="timeline-event te-primary">
                                 <span class="event-date">2010</span>
-                                <span class="event-name text-gold">Auto-entreprise</span>
+                                <span class="event-name text-blue">Auto-entreprise</span>
                                 <span class="event-description">Occaz'où - Friperie brocante</span>
                             </div>
                             <!-- Single event -->
                             <div class="timeline-event te-primary">
                                 <span class="event-date">2009</span>
-                                <span class="event-name text-blue">Auto-entreprise</span>
+                                <span class="event-name text-gold">Auto-entreprise</span>
                                 <span class="event-description">Styl'O Graph - Web design, créations garphiques print, enseignes, suivi administratif...</span>
                             </div>
                             <!-- Single event -->
                             <div class="timeline-event te-primary">
                                 <span class="event-date">2005 à 2007</span>
-                                <span class="event-name text-gold">Réceptionniste, responsable groupes séjours</span>
+                                <span class="event-name text-blue">Réceptionniste, responsable groupes séjours</span>
                                 <span class="event-description">Albatros hôtel *** Mouans-Sartoux 06</span>
                             </div>
                             <!-- Single event -->
                             <div class="timeline-event te-primary">
                                 <span class="event-date">2002</span>
-                                <span class="event-name text-blue">Agent de sécurité, contrôle d'identité.</span>
-                                <span class="event-description">S.A.S. – Sophia-Antipolis (prestataire en sécurité, placement dans diverses entreprises dont : France Télécom et laboratoires Galderma)</span>
-                            </div>
-                            <!-- Single event -->
-                            <div class="timeline-event te-primary">
-                                <span class="event-date">2002</span>
-                                <span class="event-name text-gold">Agent de sécurité.</span>
+                                <span class="event-name text-gold">Agent de sécurité, contrôle d'identité.</span>
                                 <span class="event-description">Gestion sécurité de divers sites d'entreprises (Galderma, France Télécom)</span>
                             </div>
                             <!-- Single event -->
