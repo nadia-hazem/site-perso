@@ -148,12 +148,12 @@
                     <div class="js masonry-item margin-b-30 col-lg-4 col-sm-12 col-xs-12">
                         <div class="filter gallery-item">
                             <div class="item-photo">
-                                <a href="https://github.com/nadia-hazem/runtrack3.git" data-target="ajax-modal" title="Runtrack-3 JS">
-                                <img src="assets/img/screenshot-runtrack-3.jpg" alt="Runtrack-3 JS" /></a>
+                                <a href="https://nadia-hazem.students-laplateforme.io/runtrack3/index.php" data-target="ajax-modal" title="Runtrack3 JS">
+                                <img src="https://nadia-hazem.students-laplateforme.io/runtrack3/screenshot-runtrack3.jpg" alt="Runtrack3 JS" />
                             </div>
                             <div class="item-hover bg-dark dark">
                                 <div class="item-hover-content">
-                                    <a href="https://github.com/nadia-hazem/runtrack3.git" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Runtrack-3 JS"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="https://nadia-hazem.students-laplateforme.io/runtrack3/index.php" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Runtrack3 JS"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                             <div class="item-title">
