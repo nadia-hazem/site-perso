@@ -112,7 +112,6 @@
                         }; 
                     </pre>
                 </div>
-                <!-- Liens cv -->
                 <h2 class="text-tertiary margin-t-40 margin-b-40">
                 <span data-target="local-scroll"><a href="#" onclick="goTo('resume')" class="btn btn-lg btn-primary animated" data-animation="bounceIn" title="Voir mon CV"><span>Voir mon CV</span><i class="ti-arrow-down"></i></a></span>
                 <a href="cv-dev-nadia-hazem.pdf" target="_blank" class="btn btn-lg btn-primary animated" title="Télécharger mon CV"><span>Télécharger mon CV</span><i class="ti-file"></i></a>
@@ -143,24 +142,24 @@
                 <div id="portfolio-list" class="row masonry">
                     <!-- Masonry Sizer -->
                     <div class="masonry-sizer col-lg-3 col-sm-6 col-xs-12"></div>
-
-                    <!-- Masonry Element --> <!--Runtrack-3 JS-->
-                    <div class="js masonry-item margin-b-30 col-lg-4 col-sm-12 col-xs-12">
+                    <!------------------------------------------->
+                    <!-- Masonry Element --> <!--Autocompletion-->
+                    <div class="js masonry-item margin-b-30 col-lg-6 col-sm-12 col-xs-12">
                         <div class="filter gallery-item">
                             <div class="item-photo">
-                                <a href="https://nadia-hazem.students-laplateforme.io/runtrack3/index.php" data-target="ajax-modal" title="Runtrack3 JS">
-                                <img src="https://nadia-hazem.students-laplateforme.io/runtrack3/screenshot-runtrack3.jpg" alt="Runtrack3 JS" />
+                                <a href="https://nadia-hazem.students-laplateforme.io/autocompletion/index.php" data-target="ajax-modal" title="Module de recherche avec autocompletion">
+                                <img src="assets/img/projects/screenshot-autocompletion.jpg" alt="Module de recherche avec autocompletion" />
                             </div>
                             <div class="item-hover bg-dark dark">
                                 <div class="item-hover-content">
-                                    <a href="https://nadia-hazem.students-laplateforme.io/runtrack3/index.php" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Runtrack3 JS"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="https://nadia-hazem.students-laplateforme.io/autocompletion/index.php" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Module de recherche avec autocompletion"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                             <div class="item-title">
-                                <h4>Runtrack-3 JavaScript</h4>
-                                <h6>10<sup>ème</sup> Job</h6>
-                                <span class="caption text-muted">Runtrack-3 JS</span>
-                                <a href="https://github.com/nadia-hazem/runtrack3.git" target="_blank" class="btn btn-xs btn-primary margin-t-10" title="Voir le code source"><span>Voir le code source&nbsp;</span><i class="ti-2x ti-github"></i></a>
+                                <h4><a href="https://nadia-hazem.students-laplateforme.io/autocompletion/index.php" data-target="ajax-modal" title="Recherche avec autocompletion">Recherche avec autocompletion</a></h4>
+                                <h6>11<sup>ème</sup> Job</h6>
+                                <span class="caption text-muted">Module de recherche avec autocompletion PHP/SQL.</span>
+                                <a href="https://github.com/nadia-hazem/autocompletion.git" target="_blank" class="btn btn-xs btn-primary margin-t-10" title="Voir le code source"><span>Voir le code source&nbsp;</span><i class="ti-2x ti-github"></i></a>
                             </div>
                         </div>
                     </div>
@@ -184,8 +183,28 @@
                             </div>
                         </div>
                     </div>
+                    <!-- Masonry Element --> <!--Runtrack-3 JS-->
+                    <div class="js masonry-item margin-b-30 col-lg-3 col-sm-6 col-xs-12">
+                        <div class="filter gallery-item">
+                            <div class="item-photo">
+                                <a href="https://github.com/nadia-hazem/runtrack3.git" data-target="ajax-modal" title="Runtrack-3 JS">
+                                <img src="assets/img/screenshot-runtrack-3.jpg" alt="Runtrack-3 JS" /></a>
+                            </div>
+                            <div class="item-hover bg-dark dark">
+                                <div class="item-hover-content">
+                                    <a href="https://github.com/nadia-hazem/runtrack3.git" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Runtrack-3 JS"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                            <div class="item-title">
+                                <h4>Runtrack-3 JavaScript</h4>
+                                <h6>10<sup>ème</sup> Job</h6>
+                                <span class="caption text-muted">Runtrack-3 JS</span>
+                                <a href="https://github.com/nadia-hazem/runtrack3.git" target="_blank" class="btn btn-xs btn-primary margin-t-10" title="Voir le code source"><span>Voir le code source&nbsp;</span><i class="ti-2x ti-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
                     <!-- Masonry Element --> <!--classes & PDO-->
-                    <div class="php masonry-item margin-b-30 col-lg-4 col-sm-12 col-xs-12">
+                    <div class="php masonry-item margin-b-30 col-lg-3 col-sm-6 col-xs-12">
                         <div class="filter gallery-item">
                             <div class="item-photo">
                                 <a href="https://github.com/nadia-hazem/classes-php.git" data-target="ajax-modal" title="Les classes">
