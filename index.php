@@ -143,6 +143,27 @@
                     <!-- Masonry Sizer -->
                     <div class="masonry-sizer col-lg-3 col-sm-6 col-xs-12"></div>
                     <!------------------------------------------->
+
+                    <!-- Masonry Element --> <!--Oclock-->
+                    <div class="js masonry-item margin-b-30 col-lg-6 col-sm-12 col-xs-12">
+                        <div class="filter gallery-item">
+                            <div class="item-photo">
+                                <a href="https://nadia-hazem.students-laplateforme.io/oclock/index.php" data-target="ajax-modal" title="Oclock">
+                                <img src="assets/img/projects/screenshot-oclock.jpg" alt="Oclock" />
+                            </div>
+                            <div class="item-hover bg-dark dark">
+                                <div class="item-hover-content">
+                                    <a href="https://nadia-hazem.students-laplateforme.io/oclock/index.php" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Oclock"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                            <div class="item-title">
+                                <h4><a href="https://nadia-hazem.students-laplateforme.io/oclock/index.php" data-target="ajax-modal" title="oclock">Oclock</a></h4>
+                                <h6>11<sup>ème</sup> Job</h6>
+                                <span class="caption text-muted">Oclock PHP/SQL.</span>
+                                <a href="https://github.com/nadia-hazem/oclock.git" target="_blank" class="btn btn-xs btn-primary margin-t-10" title="Voir le code source"><span>Voir le code source&nbsp;</span><i class="ti-2x ti-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
                     <!-- Masonry Element --> <!--Autocompletion-->
                     <div class="js masonry-item margin-b-30 col-lg-6 col-sm-12 col-xs-12">
                         <div class="filter gallery-item">
@@ -187,12 +208,12 @@
                     <div class="js masonry-item margin-b-30 col-lg-3 col-sm-6 col-xs-12">
                         <div class="filter gallery-item">
                             <div class="item-photo">
-                                <a href="https://github.com/nadia-hazem/runtrack3.git" data-target="ajax-modal" title="Runtrack-3 JS">
+                                <a href="https://nadia-hazem.students-laplateforme.io/runtrack3/index.php" data-target="ajax-modal" title="Runtrack-3 JS">
                                 <img src="assets/img/screenshot-runtrack-3.jpg" alt="Runtrack-3 JS" /></a>
                             </div>
                             <div class="item-hover bg-dark dark">
                                 <div class="item-hover-content">
-                                    <a href="https://github.com/nadia-hazem/runtrack3.git" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Runtrack-3 JS"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                    <a href="https://nadia-hazem.students-laplateforme.io/runtrack3/index.php" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Runtrack-3 JS"><i class="fa fa-link" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                             <div class="item-title">
