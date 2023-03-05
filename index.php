@@ -145,6 +145,26 @@
                     <!------------------------------------------->
                     <!------------------------------------------->
 
+                                        <!-- Masonry Element --> <!--Clicker-->
+                    <div class="js masonry-item margin-b-30 col-lg-6 col-sm-12 col-xs-12">
+                        <div class="filter gallery-item">
+                            <div class="item-photo">
+                                <a href="https://nadia-hazem.students-laplateforme.io/clicker/index.php" data-target="ajax-modal" title="Clicker js/php">
+                                <img src="assets/img/projects/screenshot-clicker.png" alt="clicker js/php" />
+                            </div>
+                            <div class="item-hover bg-dark dark">
+                                <div class="item-hover-content">
+                                    <a href="https://nadia-hazem.students-laplateforme.io/clicker/index.php" target="_blank" class="icon icon-sm icon-circle icon-white icon-hover" title="Clicker js/php"><i class="fa fa-link" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                            <div class="item-title">
+                                <h4><a href="https://nadia-hazem.students-laplateforme.io/clicker/index.php" data-target="ajax-modal" title="Clicker js">Clicker js/php</a></h4>
+                                <h6>15<sup>ème</sup> Job</h6>
+                                <span class="caption text-muted">Clicker js/php</span>
+                                <a href="https://github.com/nadia-hazem/clicker.git" target="_blank" class="btn btn-xs btn-primary margin-t-10" title="Voir le code source"><span>Voir le code source&nbsp;</span><i class="ti-2x ti-github"></i></a>
+                            </div>
+                        </div>
+                    </div>
                     <!-- Masonry Element --> <!--ToDoList-->
                     <div class="js masonry-item margin-b-30 col-lg-6 col-sm-12 col-xs-12">
                         <div class="filter gallery-item">
